@@ -22,20 +22,23 @@ Apache → Static website files**
 
 ## Screenshots
 
-### Website running in the browser
+### Existing GitHub repository
 
-![Website running on the EC2 instance](screenshots/website-live.png)
+<img width="1717" height="961" alt="github-repository" src="https://github.com/user-attachments/assets/d119e82a-9dea-4a1c-ad14-c1a8a63f7f8b" />
 
 ### Apache service status
 
 The Apache service was checked with `systemctl` and showed
 `active (running)`.
 
-![Apache service status](screenshots/apache-service-status.png)
+<img width="1407" height="917" alt="apache-service-status" src="https://github.com/user-attachments/assets/6a5c7cf6-5b69-41c2-ae06-ff4735749a40" />
 
-### Existing GitHub repository
 
-![GitHub repository contents](screenshots/github-repository.png)
+### Website running in the browser
+
+<img width="1917" height="911" alt="website-live" src="https://github.com/user-attachments/assets/915a2f71-7fac-4ff5-aadd-8a45c7662cc0" />
+
+
 
 ## Implementation
 
